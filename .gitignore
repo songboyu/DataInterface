@@ -2,6 +2,7 @@
 ## intelliJ
 #################
 .idea
+.DS_Store
 
 *.iml
 *.pydevproject
